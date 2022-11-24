@@ -31,8 +31,8 @@
 ```
 pip install -r requirements.txt
 ```
-- Run the script
+- Run the script to convert the dataset
 ```
 python convert.py
 ```
-- YOLOv7's instructions to start training
+- Follow YOLOv7's instructions to start training
