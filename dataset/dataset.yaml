@@ -1,0 +1,8 @@
+train: '../dataset/train'
+test: '../dataset/test'
+val: '../dataset/valid'
+#Classes
+nc: 24 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ['Advertisement', 'Background Image', 'Bottom Navigation', 'Button Bar', 'Card', 'Checkbox', 'Date Picker', 'Drawer', 'Icon', 'Image', 'Input', 'List Item', 'Map View', 'Modal', 'Multi-Tab', 'Number Stepper', 'On/Off Switch', 'Pager Indicator', 'Radio Button', 'Slider', 'Text', 'Text Button', 'Toolbar', 'Video']
