@@ -1,14 +1,18 @@
-# User Interface Element Detection for Phones using YOLO v7
+# User Interface Element Detection for Phones using YOLO v7 for the Apprender Project
 
 <p>This repository contains the weights, some examples of detected elements on different apps and a jupyter notebook that contains an script that converts images from the RICO dataset to a format compatinble with YOLO v7.</p>
 
 <p>Link to the dataset: https://interactionmining.org/rico</p>
 <p>Link to YOLO v7:     https://github.com/WongKinYiu/yolov7</p>
 
-## Why is this project important?
+## Why is the Apprender Project important?
 
-<p>The goal of this project is to develop an accurate mobile UI detection for the apprender project.</p>
-<p>The apprender project aims to assist people </p>
+[The Apprender Project](https://github.com/VShoji/apprender-research "Apprender Research") aims to assist people who have difficulties when learning how to use new technologies, such as the elderly and individuals who have little experience with electronic devices, when using mobile devices.</br></br>
+
+To request assistance, the user would input a task they want to complete, such as logging in, posting a photo or adding a new phone number, after which the app would automatically identify what kind of page the user is in (like dashboards, login pages, posts and profile pages) and give instructions on how to complete a task.</br></br>
+
+This repository contains the weights of a YOLOv7 model that identifies multiple types of UI elements in mobile devices.</br>
+The types include:
 
 ## How to set up training
 
