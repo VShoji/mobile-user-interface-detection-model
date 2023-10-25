@@ -5,7 +5,12 @@
 <p>Link to the dataset: https://interactionmining.org/rico</p>
 <p>Link to YOLO v7:     https://github.com/WongKinYiu/yolov7</p>
 
-## Conversion setup
+## Why is this project important?
+
+<p>The goal of this project is to develop an accurate mobile UI detection for the apprender project.</p>
+<p>The apprender project aims to assist people </p>
+
+## How to set up training
 
 - Download the "UI Screenshots and View Hierarchies" and "UI Screenshots and Hierarchies with Semantic Annotations" files at: https://interactionmining.org/rico
 - Unzip files
