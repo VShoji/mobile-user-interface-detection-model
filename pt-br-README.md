@@ -2,6 +2,7 @@
 
 <p>Este repositório contém os pesos de um modelo pré-treinado e um script que converte as imagens do dataset RICO a um formato compatível com o YOLOv7.</p>
 
+[Click here](./README.md) to access the english version of this file. </br></br>
 [Link do dataset](https://interactionmining.org/rico)</br>
 [Link do YOLOv7](https://github.com/WongKinYiu/yolov7)
 
