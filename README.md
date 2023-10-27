@@ -1,11 +1,41 @@
-# User Interface Element Detection for Phones using YOLO v7
+# User Interface Element Detection for Phones using YOLO v7 for the Apprender Project
 
-<p>This repository contains the weights, some examples of detected elements on different apps and a jupyter notebook that contains an script that converts images from the RICO dataset to a format compatinble with YOLO v7.</p>
+<p>This repository contains the weights and a jupyter notebook that contains a script that converts images from the RICO dataset to a format compatinble with YOLOv7.</p>
 
 <p>Link to the dataset: https://interactionmining.org/rico</p>
 <p>Link to YOLO v7:     https://github.com/WongKinYiu/yolov7</p>
 
-## Conversion setup
+## Why is the Apprender Project important?
+
+[The Apprender Project](https://github.com/VShoji/apprender-research "Apprender Research") aims to assist people who have difficulties when learning how to use new technologies, such as the elderly and individuals who have little experience with electronic devices, when using mobile devices.</br></br>
+
+To request assistance, the user would input a task they want to complete, such as logging in, posting a photo or adding a new phone number, after which the app would automatically identify what kind of page the user is in (like dashboards, login pages, posts and profile pages) and give instructions on how to complete the task.</br></br>
+
+This repository contains the weights of a YOLOv7 model that identifies multiple types of UI elements in mobile devices.</br>
+The types include:
+- Advertisement
+- Background Image
+- Bottom Navigation
+- Button Bar
+- Card
+- Checkbox
+- Date Picker
+- Drawer
+- Icon
+- Input
+- List Item
+- Map View
+- Modal
+- Multi-Tab
+- Number Stepper
+- On/Off Switch
+- Pager Indicator
+- Radio Button
+- Text
+- Text Button
+- Video
+
+## How to set up training
 
 - Download the "UI Screenshots and View Hierarchies" and "UI Screenshots and Hierarchies with Semantic Annotations" files at: https://interactionmining.org/rico
 - Unzip files
