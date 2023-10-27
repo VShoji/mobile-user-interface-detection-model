@@ -1,9 +1,9 @@
-# User Interface Element Detection for Phones using YOLO v7 for the Apprender Project
+# User Interface Element Detection for Phones using YOLOv7 for the Apprender Project
 
-<p>This repository contains the weights and a jupyter notebook that contains a script that converts images from the RICO dataset to a format compatinble with YOLOv7.</p>
+<p>This repository contains the weights and a script that converts images from the RICO dataset to a format compatinble with YOLOv7.</p>
 
 <p>Link to the dataset: https://interactionmining.org/rico</p>
-<p>Link to YOLO v7:     https://github.com/WongKinYiu/yolov7</p>
+<p>Link to YOLOv7:     https://github.com/WongKinYiu/yolov7</p>
 
 ## Why is the Apprender Project important?
 
