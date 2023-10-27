@@ -1,7 +1,8 @@
 # User Interface Element Detection for Phones using YOLOv7 for the Apprender Project
 
-<p>This repository contains the weights and a script that converts images from the RICO dataset to a format compatinble with YOLOv7.</p>
-[Clique aqui](./pt-br-README.md) para acessar a versão em português deste arquivo </br>
+<p>This repository contains the weights and a script that converts images from the RICO dataset to a format compatinble with YOLOv7.</p></br>
+
+[Clique Aqui](./pt-br-README.md) para acessar a versão em português deste arquivo </br></br>
 
 [Link to the dataset](https://interactionmining.org/rico)</br>
 [Link to YOLOv7](https://github.com/WongKinYiu/yolov7)
