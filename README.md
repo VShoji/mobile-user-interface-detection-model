@@ -13,7 +13,7 @@
 
 [The Apprender Project](https://github.com/VShoji/apprender-research "Apprender Research") aims to assist people who have difficulties when learning how to use new technologies, such as the elderly and individuals who have little experience with electronic devices, when using mobile devices.</br>
 
-To request assistance, the user would input a task they want to complete, such as logging in, posting a photo or adding a new phone number, after which the app would automatically identify what kind of page the user is in (like dashboards, login pages, posts and profile pages) and give instructions on how to complete the task.</br>
+To request assistance, the user inputs a task they want to complete, such as logging in, posting a photo or adding a new phone number, after which the app automatically identifies what kind of page the user is in (like dashboards, login pages, posts and profile pages) and gives instructions on how to complete the task.</br>
 
 This repository contains the weights of a YOLOv7 model that identifies multiple types of UI elements in mobile devices.</br>
 The types include:
